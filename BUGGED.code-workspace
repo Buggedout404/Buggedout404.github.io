@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Websites_template/doni-master/css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BUGGED",
+		"liveServer.settings.port": 5501
+	}
+}
